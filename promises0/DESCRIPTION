@@ -1,0 +1,11 @@
+Package: promises0
+Title: Mockup promises package
+Version: 0.0.0.9000
+Authors@R: person("Henrik", "Bengtsson", role=c("aut", "cre", "cph"), email = "henrikb@braju.com")
+Description: Fakes the promises package.
+Depends: R (>= 3.4.1)
+Imports: utils
+License: LGPL (>= 2.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
