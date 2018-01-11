@@ -1,10 +1,10 @@
-Package: somepkg
-Title: Some package that uses promises and futures interally
+Package: future3
+Title: Mockup future package
 Version: 0.0.0.9000
 Authors@R: person("Henrik", "Bengtsson", role=c("aut", "cre", "cph"), email = "henrikb@braju.com")
-Description: A package that uses promises and futures internally.
+Description: Fakes the future package
 Depends: R (>= 3.4.1)
-Imports: utils, promises0, future3
+Suggests: utils, promises0
 License: LGPL (>= 2.1)
 Encoding: UTF-8
 LazyData: true

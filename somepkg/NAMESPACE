@@ -2,5 +2,5 @@
 
 export(call_me)
 importFrom(future,future)
-importFrom(future2,as.promise.Future)
+importFrom(future3,as.promise.Future)
 importFrom(promises0,promise_me)
